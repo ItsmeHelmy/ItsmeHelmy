@@ -1,4 +1,5 @@
-### Hi there, currently I'm studying machine learning at Bangkit Academy led by Google, Gojek, Tokopedia, and Traveloka 👋
+### Hi there, currently I'm studying machine learning at Bangkit Academy 2023 👋
+_I'll be updated my github soon with all of my projects that I've done and been doing since_
 
 <!--
 **ItsmeHelmy/ItsmeHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
