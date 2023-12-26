@@ -1,17 +1,30 @@
-### Hi there, currently I'm studying machine learning at Bangkit Academy 2023 👋
-_I'll be updated my github soon with all of my projects that I've done and been doing since_
+# Salute, I'm Helmy! 👋
 
 <!--
-**ItsmeHelmy/ItsmeHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 I'm currently studying [Your Field of Study/Job Title]
+🌱 I’m currently learning [What You're Learning]
+👯 I’m looking to collaborate on [Type of Projects]
+💬 Ask me about [Topics]
+📫 How to reach me: [Your Contact Information]
+😄 Pronouns: [Your Pronouns]
+⚡ Fun fact: [Fun Fact About You]
 
-Here are some ideas to get you started:
+## Technologies & Tools
+<!-- List of your skills or technologies you work with -->
+<!--
+- Language 1
+- Language 2
+- Framework 1
+- Tool 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical)
+
+## Connect with Me
+<!-- Links to your social media accounts -->
+<!--
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+- [Your Website](Your Website URL)
+- 
