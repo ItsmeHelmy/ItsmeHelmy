@@ -4,10 +4,10 @@
 🎓 I'm currently studying Informatics @UII, Universitas Islam Indonesia <br>
 🌱 I’m currently learning Machine Learning, Mobile & Web Development <br>
 👯 I’m looking to collaborate on ML/AI, Game or any web development <br>
-💬 Ask me about sport especially football and gym ⚽💪🏼 <br>
+💬 Ask me about sports especially football and gym ⚽💪🏼 <br>
 📫 How to reach me: HelmyFachreza5000@gmail.com or DM me on my social media <br>
 😄 Pronouns: He/Him <br>
-⚡ Fun fact: I am good at FPS game, not gonna lie It's legit true 😁
+⚡ Fun fact: I am good at FPS games, not going to lie It's legit true 😁
 
 # Technologies & Tools
 <!-- List of your skills or technologies you work with -->
@@ -19,7 +19,7 @@
 ## Code Editor & IDE
 - IDE = IntelliJ IDEA | Android Studio | Visual Studio | PyCharm
 - Code Editor = Visual Studio Code | Atom | Vim
-## Framewroks
+## Frameworks
 - Angular | Codeigniter | Django | Flask
 ## Tools
 - Git | GitHub | Vim | BitBucket
@@ -27,7 +27,7 @@
 - Windows 11 and Linux Ubuntu 23.10
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ItsmeHelmy]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsmeHelmy&show_icons=true&theme=radical)
 
 ## Connect with Me
 <!-- Links to your social media accounts -->
