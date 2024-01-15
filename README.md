@@ -17,7 +17,7 @@
 - Tool 1
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ItsmeHelmy]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsmeHelmy&show_icons=true&theme=radical)
 
 ## Connect with Me
 <!-- Links to your social media accounts -->
