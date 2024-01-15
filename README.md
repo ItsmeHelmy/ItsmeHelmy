@@ -4,7 +4,7 @@
 🎓 I'm currently studying Informatics @UII, Universitas Islam Indonesia <br>
 🌱 I’m currently learning Machine Learning, Mobile & Web Development <br>
 👯 I’m looking to collaborate on ML/AI, Game or any web development <br>
-💬 Ask me about sports especially football and gym ⚽💪🏼 <br>
+💬 Ask me about sports, especially football and gym ⚽💪🏼 <br>
 📫 How to reach me: HelmyFachreza5000@gmail.com or DM me on my social media <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I am good at FPS games, not going to lie It's legit true 😁
