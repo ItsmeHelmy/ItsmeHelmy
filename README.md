@@ -7,7 +7,6 @@
 💬 Ask me about sports, especially football and gym ⚽💪🏼 <br>
 📫 How to reach me: HelmyFachreza5000@gmail.com or DM me on my social media <br>
 😄 Pronouns: He/Him <br>
-⚡ Fun fact: I am good at FPS games, not going to lie It's legit true 😁
 
 # Technologies & Tools
 <!-- List of your skills or technologies you work with -->
