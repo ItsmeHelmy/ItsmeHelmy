@@ -1,4 +1,4 @@
-# Salute, I'm Helmy! 👋
+# Howdy, I'm Helmy! 👋
 
 ## About Me
 🎓 I'm currently studying Informatics @UII, Universitas Islam Indonesia <br>
